@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CKmhkYNsPVA=",
+  "dgSpecHash": "HfjePyEViGc=",
   "success": true,
-  "projectFilePath": "D:\\Лб Атарк\\3.3 Лабораторна робота №3\\SmartRoom Backend Update 1\\SmartRoomBackend_Upd1\\SmartRoomBackend_Upd1.csproj",
+  "projectFilePath": "D:\\Лб Атарк\\3.2 Лабораторна робота №2\\smart-room-system\\SmartRoom Backend Update 1\\SmartRoomBackend_Upd1\\SmartRoomBackend_Upd1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0\\microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",

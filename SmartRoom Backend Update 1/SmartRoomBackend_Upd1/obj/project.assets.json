@@ -1622,11 +1622,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Лб Атарк\\3.3 Лабораторна робота №3\\SmartRoom Backend Update 1\\SmartRoomBackend_Upd1\\SmartRoomBackend_Upd1.csproj",
+      "projectUniqueName": "D:\\Лб Атарк\\3.2 Лабораторна робота №2\\smart-room-system\\SmartRoom Backend Update 1\\SmartRoomBackend_Upd1\\SmartRoomBackend_Upd1.csproj",
       "projectName": "SmartRoomBackend_Upd1",
-      "projectPath": "D:\\Лб Атарк\\3.3 Лабораторна робота №3\\SmartRoom Backend Update 1\\SmartRoomBackend_Upd1\\SmartRoomBackend_Upd1.csproj",
+      "projectPath": "D:\\Лб Атарк\\3.2 Лабораторна робота №2\\smart-room-system\\SmartRoom Backend Update 1\\SmartRoomBackend_Upd1\\SmartRoomBackend_Upd1.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Лб Атарк\\3.3 Лабораторна робота №3\\SmartRoom Backend Update 1\\SmartRoomBackend_Upd1\\obj\\",
+      "outputPath": "D:\\Лб Атарк\\3.2 Лабораторна робота №2\\smart-room-system\\SmartRoom Backend Update 1\\SmartRoomBackend_Upd1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

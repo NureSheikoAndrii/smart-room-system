@@ -1,0 +1,28 @@
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\bin\Debug\net8.0\SmartRoom.IoT_Simulator.exe
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\bin\Debug\net8.0\SmartRoom.IoT_Simulator.deps.json
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\bin\Debug\net8.0\SmartRoom.IoT_Simulator.runtimeconfig.json
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\bin\Debug\net8.0\SmartRoom.IoT_Simulator.dll
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\bin\Debug\net8.0\SmartRoom.IoT_Simulator.pdb
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\SmartRoom.IoT_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\SmartRoom.IoT_Simulator.AssemblyInfoInputs.cache
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\SmartRoom.IoT_Simulator.AssemblyInfo.cs
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\SmartRoom.IoT_Simulator.csproj.CoreCompileInputs.cache
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\SmartRoom.IoT_Simulator.dll
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\refint\SmartRoom.IoT_Simulator.dll
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\SmartRoom.IoT_Simulator.pdb
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\SmartRoom.IoT_Simulator.genruntimeconfig.cache
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\ref\SmartRoom.IoT_Simulator.dll
+D:\Лб Атарк\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\bin\Debug\net8.0\SmartRoom.IoT_Simulator.exe
+D:\Лб Атарк\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\bin\Debug\net8.0\SmartRoom.IoT_Simulator.deps.json
+D:\Лб Атарк\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\bin\Debug\net8.0\SmartRoom.IoT_Simulator.runtimeconfig.json
+D:\Лб Атарк\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\bin\Debug\net8.0\SmartRoom.IoT_Simulator.dll
+D:\Лб Атарк\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\bin\Debug\net8.0\SmartRoom.IoT_Simulator.pdb
+D:\Лб Атарк\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\SmartRoom.IoT_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лб Атарк\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\SmartRoom.IoT_Simulator.AssemblyInfoInputs.cache
+D:\Лб Атарк\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\SmartRoom.IoT_Simulator.AssemblyInfo.cs
+D:\Лб Атарк\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\SmartRoom.IoT_Simulator.csproj.CoreCompileInputs.cache
+D:\Лб Атарк\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\SmartRoom.IoT_Simulator.dll
+D:\Лб Атарк\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\refint\SmartRoom.IoT_Simulator.dll
+D:\Лб Атарк\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\SmartRoom.IoT_Simulator.pdb
+D:\Лб Атарк\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\SmartRoom.IoT_Simulator.genruntimeconfig.cache
+D:\Лб Атарк\3.4 Лабораторна робота №4 (Створення IоT клієнта)\SmartRoom IoT Simulator\SmartRoom.IoT_Simulator\obj\Debug\net8.0\ref\SmartRoom.IoT_Simulator.dll

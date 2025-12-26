@@ -1,0 +1,28 @@
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\bin\Debug\net8.0\SmartRoom.TestClient.exe
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\bin\Debug\net8.0\SmartRoom.TestClient.deps.json
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\bin\Debug\net8.0\SmartRoom.TestClient.runtimeconfig.json
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\bin\Debug\net8.0\SmartRoom.TestClient.dll
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\bin\Debug\net8.0\SmartRoom.TestClient.pdb
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\SmartRoom.TestClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\SmartRoom.TestClient.AssemblyInfoInputs.cache
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\SmartRoom.TestClient.AssemblyInfo.cs
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\SmartRoom.TestClient.csproj.CoreCompileInputs.cache
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\SmartRoom.TestClient.dll
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\refint\SmartRoom.TestClient.dll
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\SmartRoom.TestClient.pdb
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\SmartRoom.TestClient.genruntimeconfig.cache
+D:\C# Programming(Andrii)\Freelance\Igor freelance [Лабораторны IoT]\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\ref\SmartRoom.TestClient.dll
+D:\Лб Атарк\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\bin\Debug\net8.0\SmartRoom.TestClient.exe
+D:\Лб Атарк\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\bin\Debug\net8.0\SmartRoom.TestClient.deps.json
+D:\Лб Атарк\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\bin\Debug\net8.0\SmartRoom.TestClient.runtimeconfig.json
+D:\Лб Атарк\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\bin\Debug\net8.0\SmartRoom.TestClient.dll
+D:\Лб Атарк\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\bin\Debug\net8.0\SmartRoom.TestClient.pdb
+D:\Лб Атарк\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\SmartRoom.TestClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лб Атарк\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\SmartRoom.TestClient.AssemblyInfoInputs.cache
+D:\Лб Атарк\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\SmartRoom.TestClient.AssemblyInfo.cs
+D:\Лб Атарк\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\SmartRoom.TestClient.csproj.CoreCompileInputs.cache
+D:\Лб Атарк\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\SmartRoom.TestClient.dll
+D:\Лб Атарк\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\refint\SmartRoom.TestClient.dll
+D:\Лб Атарк\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\SmartRoom.TestClient.pdb
+D:\Лб Атарк\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\SmartRoom.TestClient.genruntimeconfig.cache
+D:\Лб Атарк\3.3 Лабораторна робота №3\SmartRoom.TestClient\SmartRoom.TestClient\obj\Debug\net8.0\ref\SmartRoom.TestClient.dll
